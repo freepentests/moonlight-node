@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "@msgpack/msgpack": "^3.1.3",
+    "socks-proxy-agent": "^10.0.0",
     "ws": "^8.20.0"
   }
 }
