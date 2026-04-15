@@ -1,3 +1,5 @@
+#!/bin/node
+
 import { CONFIG } from './Config.js';
 import { AltSolver } from './Modules/Altcha.js';
 import { Codec } from './Modules/Network/Codec.js';
